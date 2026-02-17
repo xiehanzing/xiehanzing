@@ -26,7 +26,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiehanzing&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehanzing&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhan182&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiehanzing&theme=tokyonight)
 
 ---
 
@@ -34,4 +34,4 @@
 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/USERNAMEKAMU)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/xiehanzing)
