@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [HANNN]
 
-🔭 I'm a passionate Fullstack Web Developer  
+🔭 I'm a pemula   
 🌱 Currently learning Laravel, MongoDB, and advanced React  
 👯 I’m open to collaboration on exciting tech projects  
 📫 How to reach me: [mydigitechvibes.my.id]  
