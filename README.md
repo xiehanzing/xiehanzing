@@ -22,11 +22,19 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiehanzing&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehanzing&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiehanzing&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiehanzing&show_icons=true&theme=tokyonight&count_private=true" alt="Xiehanzing's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiehanzing&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiehanzing&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
