@@ -11,7 +11,6 @@ About Me
 name       : HANNN
 focus      : Web · 3D · Interactive Experiences
 stack      : Lua · JavaScript · Python · React · Laravel
-website    : https://mydigitechvibes.my.id
 
 Tech Stack
 <div align="center">
