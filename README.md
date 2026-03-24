@@ -8,7 +8,7 @@
 <br/>
 
 About Me
-yamlname       : HANNN
+name       : HANNN
 focus      : Web · 3D · Interactive Experiences
 stack      : Lua · JavaScript · Python · React · Laravel
 website    : https://mydigitechvibes.my.id
