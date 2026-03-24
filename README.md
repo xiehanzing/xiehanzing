@@ -9,7 +9,7 @@
 <!-- ║                    ✨ ANIMATED TYPING MANTRA ✨                    ║ -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🔮+CONJURING+DIGITAL+REALITIES+🔮;⚔️+LUA+%7C+JAVASCRIPT+%7C+PYTHON+⚔️;🌟+FULL+STACK+SORCERER+SUPREME+🌟;💫+3D+HOLOGRAM+ENCHANTER+💫"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🙏+AJARIN+DONG+PUH+SEPUH+🙏;😭+NEWBIE+MINTA+BIMBINGAN+😭;💫+TOLONG+AJARIN+AKU+SENPAI+💫"/>
 </div>
 <br/>
 <!-- ════════════════════════════════════════════════════════════════════ -->
