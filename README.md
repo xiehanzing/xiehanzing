@@ -9,7 +9,6 @@
 
 About Me
 yamlname       : HANNN
-role       : Full Stack Developer
 focus      : Web · 3D · Interactive Experiences
 stack      : Lua · JavaScript · Python · React · Laravel
 website    : https://mydigitechvibes.my.id
